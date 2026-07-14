@@ -9,6 +9,7 @@ Official website, privacy policy, terms of service, and support pages for Top 5 
 - `terms.html` — terms of service
 - `support.html` — support and FAQ
 - `styles.css` — shared design
+- `app-icon.png` — app icon, favicon, and social preview
 
 ## Publish with GitHub Pages
 
